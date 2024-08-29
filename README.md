@@ -6,6 +6,6 @@ npm install
 
 npm run dev
 ## Demonstration
-<img src="/public/demonstration.png">
+<img src="/public/Demonstration.png">
 
 ### Link to the website: https://form-credit-card-ruddy.vercel.app
